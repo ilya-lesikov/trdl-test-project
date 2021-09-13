@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.0](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v4.1.0...v4.2.0) (2021-09-13)
+
+
+### Features
+
+* asdf ([21d5ec9](https://www.github.com/ilya-lesikov/trdl-test-project/commit/21d5ec979e3ce29eb8f9ac4206711f27b9dffcf1))
+
 ## [4.1.0](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v4.0.0...v4.1.0) (2021-09-13)
 
 
