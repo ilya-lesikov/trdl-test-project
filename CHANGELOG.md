@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.2.3](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v3.2.2...v3.2.3) (2021-09-13)
+
+
+### Bug Fixes
+
+* asdf ([8dac10a](https://www.github.com/ilya-lesikov/trdl-test-project/commit/8dac10a2e2fd0fb7a8348c494b12a2632ff4ee67))
+
 ### [3.2.2](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v3.2.1...v3.2.2) (2021-09-13)
 
 
