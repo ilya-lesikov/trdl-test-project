@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.3.0](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v4.2.3...v4.3.0) (2021-09-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* xxx
+
+### Features
+
+* xxx ([3f93f8b](https://www.github.com/ilya-lesikov/trdl-test-project/commit/3f93f8bd429480620d3df113286aeadc23046951))
+
 ### [4.2.3](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v4.2.2...v4.2.3) (2021-09-13)
 
 
