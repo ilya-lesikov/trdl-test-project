@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - uses: werf/third-party-release-please-action@main
+    - uses: werf/third-party-release-please-action@never-bump-major
       id: release
       with:
         release-type: simple
-        # bump-minor-pre-major: yes
+        bump-minor-pre-major: yes
+        bump-patch-for-minor-pre-major: yes
