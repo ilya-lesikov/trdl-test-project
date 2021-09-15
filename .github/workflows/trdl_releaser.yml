@@ -13,6 +13,6 @@ jobs:
     - uses: werf/third-party-release-please-action@never-bump-major
       id: release
       with:
-        release-type: simple
+        release-type: go
         bump-minor-pre-major: true
         bump-patch-for-minor-pre-major: true
