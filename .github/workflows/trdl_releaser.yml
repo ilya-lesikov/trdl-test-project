@@ -1,18 +1,18 @@
-name: Trdl releaser
-on:
-  push:
-    branches:
-    - main
+# name: Trdl releaser
+# on:
+#   push:
+#     branches:
+#     - main
 
-jobs:
-  release:
-    name: Perform release using trdl server
-    runs-on: ubuntu-latest
-    steps:
+# jobs:
+#   release:
+#     name: Perform release using trdl server
+#     runs-on: ubuntu-latest
+#     steps:
 
-    - uses: werf/third-party-release-please-action@never-bump-major
-      id: release
-      with:
-        release-type: go
-        bump-minor-pre-major: true
-        bump-patch-for-minor-pre-major: true
+#     - uses: werf/third-party-release-please-action@never-bump-major
+#       id: release
+#       with:
+#         release-type: go
+#         bump-minor-pre-major: true
+#         bump-patch-for-minor-pre-major: true
