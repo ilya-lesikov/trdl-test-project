@@ -1,6 +1,17 @@
 # Changelog
 
 LESIKOVTEST
+## [4.11.0](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v4.10.0...v4.11.0) (2021-09-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* xxx
+
+### Features
+
+* xxx ([172ef53](https://www.github.com/ilya-lesikov/trdl-test-project/commit/172ef536390b1899b30171b6430fdda2b6d6e5a0))
+
 ## [4.10.0](https://www.github.com/ilya-lesikov/trdl-test-project/compare/v4.9.0...v4.10.0) (2021-09-16)
 
 
